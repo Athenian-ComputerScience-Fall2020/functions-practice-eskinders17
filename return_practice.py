@@ -20,6 +20,6 @@ print(output_num)
 
 '''
 Add prediction(s) here:
-
+45
 
 '''
