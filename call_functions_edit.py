@@ -8,13 +8,18 @@ def say_hi():
 def offer_drink():
    print("Would you care for a spot of tea?")
 
+def tell_joke():
+    print("why did the chicken cross the street?")
+
 def offer_food():
    print("Biscuit?")
 
 def say_bye():
    print("Cheerio then.")
 
-
-offer_drink()
 say_hi()
+offer_drink()
 offer_food()
+tell_joke()
+say_bye()
+
